@@ -17,3 +17,6 @@ _*
 build/
 !.gitignore
 .vscode
+!flake.nix
+!flake.lock
+!.envrc
